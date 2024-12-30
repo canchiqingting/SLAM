@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="bljRKDMBP5DQvN5Ejm93">
-    <mxGraphModel dx="850" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="951" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,6 +38,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="475" y="379" as="sourcePoint" />
             <mxPoint x="475" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcjyHV4zTzG0sbda_dcI-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660" y="230" width="130" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="XcjyHV4zTzG0sbda_dcI-18" value="Relation Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="XcjyHV4zTzG0sbda_dcI-17">
+          <mxGeometry y="77" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcjyHV4zTzG0sbda_dcI-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="XcjyHV4zTzG0sbda_dcI-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" as="sourcePoint" />
+            <mxPoint x="60" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcjyHV4zTzG0sbda_dcI-20" value="Pin,fin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XcjyHV4zTzG0sbda_dcI-17">
+          <mxGeometry x="70" y="17" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcjyHV4zTzG0sbda_dcI-21" value="Word&lt;div&gt;Embeddings&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="420" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcjyHV4zTzG0sbda_dcI-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="476" y="504" as="sourcePoint" />
+            <mxPoint x="476" y="544" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
